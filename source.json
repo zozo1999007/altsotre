@@ -16,36 +16,6 @@
           "size": 180000000
         }
       ]
-    },
-    {
-      "name": "YouTube Plus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Google",
-      "localizedDescription": "YouTube mod IPA",
-      "versions": [
-        {
-          "version": "21.07.4",
-          "buildVersion": "1",
-          "date": "2026-07-05",
-          "downloadURL": "https://github.com/zozo1999007/altsotre/releases/download/V1.0/YouTubePlus_21.07.4.ipa",
-          "size": 200000000
-        }
-      ]
-    },
-    {
-      "name": "LiveContainer",
-      "bundleIdentifier": "io.livecontainer.app",
-      "developerName": "LiveContainer",
-      "localizedDescription": "Container tool",
-      "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-07-05",
-          "downloadURL": "https://github.com/zozo1999007/altsotre/releases/download/V1.0/LiveContainer.ipa",
-          "size": 150000000
-        }
-      ]
     }
   ]
 }

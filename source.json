@@ -1,0 +1,54 @@
+{
+  "name": "Zozo Source",
+  "identifier": "hu.zozo.altstore",
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify",
+      "subtitle": "EeveeSpotify patched IPA",
+      "localizedDescription": "Modded Spotify IPA",
+      "versions": [
+        {
+          "version": "6.6.5",
+          "buildVersion": "1",
+          "date": "2026-07-05",
+          "downloadURL": "https://github.com/zozo1999007/altsotre/releases/download/V1.0/EeveeSpotify-6.6.5-9.1.56_patched.ipa",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google",
+      "subtitle": "YouTube++ IPA",
+      "localizedDescription": "Tweaked YouTube IPA",
+      "versions": [
+        {
+          "version": "21.07.4",
+          "buildVersion": "1",
+          "date": "2026-07-05",
+          "downloadURL": "https://github.com/zozo1999007/altsotre/releases/download/V1.0/YouTubePlus_21.07.4.ipa",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "io.livecontainer.app",
+      "developerName": "LiveContainer",
+      "subtitle": "App container tool",
+      "localizedDescription": "Run apps in containers",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-07-05",
+          "downloadURL": "https://github.com/zozo1999007/altsotre/releases/download/V1.0/LiveContainer.ipa",
+          "size": 0
+        }
+      ]
+    }
+  ]
+}

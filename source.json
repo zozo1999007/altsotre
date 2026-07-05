@@ -7,7 +7,6 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "localizedDescription": "EeveeSpotify patched IPA",
-      "iconURL": "",
       "versions": [
         {
           "version": "6.6.5",
@@ -23,7 +22,6 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "localizedDescription": "YouTube mod IPA",
-      "iconURL": "",
       "versions": [
         {
           "version": "21.07.4",
@@ -39,7 +37,6 @@
       "bundleIdentifier": "io.livecontainer.app",
       "developerName": "LiveContainer",
       "localizedDescription": "Container tool",
-      "iconURL": "",
       "versions": [
         {
           "version": "1.0",
